@@ -21,5 +21,10 @@ App deets:
  7. I can accept monetary donations to GRC (Stripe? Square? Paypal? Venmo?)
  8. I can keep a running list of outstanding needs( tie to Amazon wishlist?)
  9. I can generate tax receipts for monetary and gear donations.
+ 10. I CANNOT loan gear that is currently being borrowed.
+ 11. login to do all of the above with username and pwd, pwd confirm.
+ 12. logout.
+ 13. sign up to join GRC Admin. 
+ 14. receive email confirmation of admin status.
 
 
